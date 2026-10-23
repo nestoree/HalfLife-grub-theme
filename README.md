@@ -2,6 +2,8 @@
 
 Este repositorio contiene un tema personalizado de GRUB inspirado en Half-Life 2. El tema usa una imagen de fondo con estilo Black Mesa y una configuracion de menu pensada para mostrar las entradas de arranque en la parte izquierda de la pantalla.
 
+![background](background.png)
+
 ## Archivos incluidos
 
 | Archivo | Descripcion |
